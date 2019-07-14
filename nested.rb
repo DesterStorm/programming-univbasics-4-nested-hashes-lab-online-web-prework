@@ -106,7 +106,7 @@ def changing_alan
      }
     
      
-     programmer_hash[:alan_kay] = {:alans_new_info => "GUI", :languages => ["Smalltalk", "LISP"]} 
+     programmer_hash[:alan_kay {:known_for}] = {:alans_new_info => "GUI", :languages => ["Smalltalk", "LISP"]} 
      puts programmer_hash
 end
 
