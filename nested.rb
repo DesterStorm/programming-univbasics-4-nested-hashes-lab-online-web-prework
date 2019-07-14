@@ -105,10 +105,12 @@ def changing_alan
         }
      }
     programmer_hash = 
-    {
-        :alan_kay => {
+    [
+        :alan_kay => 
+        {
           :alans_new_info => "GUI"
         }
+    ]    
 end
 
 def adding_to_dennis
